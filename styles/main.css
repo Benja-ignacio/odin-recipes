@@ -1,0 +1,57 @@
+.contenedor {
+  border: 10px solid rgba(18, 69, 89, 1);
+  padding: 15px;
+  margin: 15px;
+  border-radius: 20px;
+  background-color: rgba(239, 246, 224, 1);
+  box-shadow: 6px 6px 3px rgba(1, 22, 30, 1);
+}
+
+.titulo {
+  text-align: center;
+  font-size: 25px;
+
+  border-radius: 10px;
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
+  text-shadow: 2px 2px 3px rgba(18, 69, 89, 1);
+}
+
+.parrafo1 {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.about,
+.about-color {
+  text-align: center;
+  color: #598392;
+}
+
+body {
+  background-color: #598392;
+}
+
+.lista a {
+  color: #598392;
+}
+
+.lista a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.encabezado2 {
+  text-align: center;
+  font-size: 30px;
+}
